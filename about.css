@@ -1,0 +1,41 @@
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    padding-left: 40px;
+    margin: 0;
+}
+nav {
+    background: black;
+}
+.navbar-brand {
+    color: white!important;
+    margin: 0;
+    margin-left: 40px;
+}
+.containeriz {
+    margin-left: 700px;
+}
+  img {
+    width: 100%;
+  }
+  h2 {
+    margin-top: 30px;
+  }
+  .card-text {
+      color: lightgrey;
+  }
+  .card-body {
+    text-align: center;
+  }
+  .row2 {
+    margin-top: 30px;
+  }
+  .icons {
+    color: blue;
+  }
+  .wrapit {
+        overflow-wrap: normal;
+    }
+  .gg {
+      margin-top: 10px;
+  }
